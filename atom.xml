@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/lps157</id>
     <title>lps&apos; note</title>
-    <updated>2019-12-31T10:00:35.254Z</updated>
+    <updated>2020-01-03T07:48:00.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/lps157"/>
     <link rel="self" href="https://github.com/lps157/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://github.com/lps157/images/avatar.png</logo>
     <icon>https://github.com/lps157/favicon.ico</icon>
-    <rights>All rights reserved 2019, lps&apos; note</rights>
+    <rights>All rights reserved 2020, lps&apos; note</rights>
     <entry>
         <title type="html"><![CDATA[Spark RDD、DataFrame、DataSet的区别和联系以及优缺点]]></title>
         <id>https://github.com/lps157/post/spark-rdddataframedataset-de-qu-bie-he-lian-xi-yi-ji-you-que-dian</id>
